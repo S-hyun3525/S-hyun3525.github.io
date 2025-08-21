@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: SB_T3xt # the main title
 
-tagline: Jabdong_Sanee # it will display as the subtitle
+tagline: Jabdong_Sanee_BLOG # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
