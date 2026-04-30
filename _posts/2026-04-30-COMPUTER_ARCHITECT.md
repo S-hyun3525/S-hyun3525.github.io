@@ -6,7 +6,7 @@ title: "컴퓨터 아키텍쳐"
 
 date: 2026-04-30 09:30:00 +0900
 
-categories: blog study
+categories: blog study com_Archi
 
 ---
 

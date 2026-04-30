@@ -6,7 +6,7 @@ title: "자료구조"
 
 date: 2026-04-30 10:30:00 +0900
 
-categories: blog study
+categories: blog study Data_Struct
 
 ---
 
